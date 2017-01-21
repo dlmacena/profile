@@ -1,0 +1,29 @@
+body {
+	background-color: lightgrey;
+	padding: 20px;
+
+}
+
+nav {
+	text-align: center;
+}
+
+.container {
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+}
+
+.body-container {
+	border-top:	2px solid black;
+	border-bottom: 2px solid black;
+}
+
+H1 {
+	text-align: center;
+}
+
+.image-container {
+	width: 305px;
+	height: 305px;
+	border: 2px solid black;
+}
